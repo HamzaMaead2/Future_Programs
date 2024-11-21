@@ -273,7 +273,7 @@ section .card-title {
   color: #FFF;
 }
 .banner .jumbotron .container .card .card-body .card-title {
-  color: #FFF;
+  color:#E91E63;
   text-transform: uppercase;
 }
 
